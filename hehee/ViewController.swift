@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    var arr = Array(1...100)
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
